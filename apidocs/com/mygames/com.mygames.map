@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Colorify.html" title="com.mygames.Colorify" alt="" coords="141,17,205,42"/>
+<area shape="rect" id="node1" href="./Colorify.html" title="&lt;TABLE&gt;" alt="" coords="131,5,216,53"/>
+<area shape="rect" id="node2_1" href="./HumanPlayerSimulation.html" title="com.mygames.HumanPlayerSimulation" alt="" coords="16,113,176,138"/>
+<area shape="rect" id="node2" href="./HumanPlayerSimulation.html" title="&lt;TABLE&gt;" alt="" coords="5,101,187,149"/>
+<area shape="rect" id="node3_2" href="./ComputerPlayer.html" title="com.mygames.ComputerPlayer" alt="" coords="222,113,335,138"/>
+<area shape="rect" id="node3" href="./ComputerPlayer.html" title="&lt;TABLE&gt;" alt="" coords="211,101,346,149"/>
+<area shape="rect" id="node4_3" href="./Move.html" title="com.mygames.Move" alt="" coords="353,17,405,42"/>
+<area shape="rect" id="node4" href="./Move.html" title="&lt;TABLE&gt;" alt="" coords="342,5,415,53"/>
+<area shape="rect" id="node5_4" href="./HumanPlayer.html" title="com.mygames.HumanPlayer" alt="" coords="381,113,480,138"/>
+<area shape="rect" id="node5" href="./HumanPlayer.html" title="&lt;TABLE&gt;" alt="" coords="371,101,491,149"/>
+<area shape="rect" id="node6_5" href="./Game.html" title="com.mygames.Game" alt="" coords="450,17,505,42"/>
+<area shape="rect" id="node6" href="./Game.html" title="&lt;TABLE&gt;" alt="" coords="439,5,515,53"/>
+<area shape="rect" id="node7_6" href="./InputParser.html" title="com.mygames.InputParser" alt="" coords="550,17,637,42"/>
+<area shape="rect" id="node7" href="./InputParser.html" title="&lt;TABLE&gt;" alt="" coords="539,5,647,53"/>
+<area shape="rect" id="node8_7" href="./GameBoard.html" title="com.mygames.GameBoard" alt="" coords="683,17,771,42"/>
+<area shape="rect" id="node8" href="./GameBoard.html" title="&lt;TABLE&gt;" alt="" coords="672,5,781,53"/>
+<area shape="rect" id="node9_8" href="./Player.html" title="com.mygames.Player" alt="" coords="251,17,307,42"/>
+<area shape="rect" id="node9" href="./Player.html" title="&lt;TABLE&gt;" alt="" coords="240,5,317,53"/>
+<area shape="rect" id="node10_9" href="./App.html" title="com.mygames.App" alt="" coords="820,17,863,42"/>
+<area shape="rect" id="node10" href="./App.html" title="&lt;TABLE&gt;" alt="" coords="805,5,877,53"/>
+</map>

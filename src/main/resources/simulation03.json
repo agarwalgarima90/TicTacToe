@@ -1,0 +1,38 @@
+{
+	"fileDescription": "Simulating Human moves for a 5X5 board",
+	"isSimulation": true,
+	"isTest": false,
+	"boardSize": 5,
+	"numPlayers": 3,
+	"playerInfo": [{
+			"name": "Garima",
+			"type": "human",
+			"symbol": "X",
+			"moves": [
+				[0, 4],
+				[1, 3],
+				[2, 2],
+				[3, 1],
+				[4, 0]
+			]
+		},
+		{
+			"name": "Rishi",
+			"type": "human",
+			"symbol": "O",
+			"moves": [
+				[4, 4],
+				[4, 3],
+				[4, 2],
+				[4, 1],
+				[1, 0]
+			]
+		},
+		{
+			"name": "Computer",
+			"type": "computer",
+			"symbol": "C",
+			"expectedMoves": null 
+		}
+	]
+}

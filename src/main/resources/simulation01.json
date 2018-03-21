@@ -1,0 +1,34 @@
+{
+	"fileDescription": "Simulation Human moves for a 3X3 board",
+	"isSimulation": true,
+	"isTest": false,
+	"boardSize": 3,
+	"numPlayers": 3,
+	"playerInfo": [{
+			"name": "Garima",
+			"type": "human",
+			"symbol": "X",
+			"moves": [
+				[0, 0],
+				[1, 0],
+				[2, 0]
+			]
+		},
+		{
+			"name": "Rishi",
+			"type": "human",
+			"symbol": "O",
+			"moves": [
+				[0, 1],
+				[1, 1],
+				[2, 1]
+			]
+		},
+		{
+			"name": "Computer",
+			"type": "computer",
+			"symbol": "C",
+			"expectedMoves": null
+		}
+	]
+}

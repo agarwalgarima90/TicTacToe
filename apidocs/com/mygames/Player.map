@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./HumanPlayerSimulation.html" title="com.mygames.HumanPlayerSimulation" alt="" coords="16,113,176,138"/>
+<area shape="rect" id="node1" href="./HumanPlayerSimulation.html" title="&lt;TABLE&gt;" alt="" coords="5,101,187,149"/>
+<area shape="rect" id="node2_1" href="./ComputerPlayer.html" title="com.mygames.ComputerPlayer" alt="" coords="222,113,335,138"/>
+<area shape="rect" id="node2" href="./ComputerPlayer.html" title="&lt;TABLE&gt;" alt="" coords="211,101,346,149"/>
+<area shape="rect" id="node3_2" href="./HumanPlayer.html" title="com.mygames.HumanPlayer" alt="" coords="381,113,480,138"/>
+<area shape="rect" id="node3" href="./HumanPlayer.html" title="&lt;TABLE&gt;" alt="" coords="371,101,491,149"/>
+<area shape="rect" id="node4_3" href="./Player.html" title="com.mygames.Player" alt="" coords="251,17,307,42"/>
+<area shape="rect" id="node4" href="./Player.html" title="&lt;TABLE&gt;" alt="" coords="240,5,317,53"/>
+</map>

@@ -1,0 +1,40 @@
+{
+	"fileDescription": "Simulating human moves for a 6X6 board",
+	"isSimulation": true,
+	"isTest": true,
+	"boardSize": 6,
+	"numPlayers": 3,
+	"playerInfo": [{
+			"name": "Garima",
+			"type": "human",
+			"symbol": "X",
+			"moves": [
+				[0, 0],
+				[0, 5],
+				[5, 5],
+				[5, 3],
+				[5, 2],
+				[5, 1]
+			]
+		},
+		{
+			"name": "Rishi",
+			"type": "human",
+			"symbol": "O",
+			"moves": [
+				[3, 0],
+				[3, 1],
+				[3, 5],
+				[3, 3],
+				[3, 4],
+				[3, 2]
+			]
+		},
+		{
+			"name": "Computer",
+			"type": "computer",
+			"symbol": "C",
+			"expectedMoves": null 
+		}
+	]
+}
